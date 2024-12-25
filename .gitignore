@@ -1,0 +1,4 @@
+**/data/
+**/test/
+**/input/
+.DS_Store
